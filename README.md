@@ -2,6 +2,9 @@
 Repositorio para las prácticas de gestión de proyectos.
 
 
-Santiago Infante Ramos
+Alberto García Alcolado
 
+Pablo Echavarría Íñiguez
+
+Santiago Infante Ramos
 
