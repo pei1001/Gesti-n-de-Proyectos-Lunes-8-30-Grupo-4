@@ -12,7 +12,7 @@ Repositorio para las prácticas de gestión de proyectos.
 5. [Utilidad](#por-qué-el-proyecto-es-útil)
 6. [Cómo pueden comenzar los usuarios con el proyecto](#cómo-pueden-comenzar-los-usuarios-con-el-proyecto)
 7. [Dónde pueden recibir ayuda los usuarios con tu proyecto](#dónde-pueden-recibir-ayuda-los-usuarios-con-tu-proyecto)
-8. [Quién mantiene y contribuye con el proyecto.](#quién-mantiene-y-contribuye-con-el-proyecto.)
+8. [Quién mantiene y contribuye con el proyecto.](#quién-mantiene-y-contribuye-con-el-proyecto)
 
 ## _Introducción_
 Desarrollo y gestión de nuestra maravillosa aplicación que te ayudará a mantener un registro y a mejorar en tus entrenamientos en el gimnasio.
