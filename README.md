@@ -43,7 +43,8 @@ Una vez nuestra aplicación se haya desarrollado por completo, esta estará disp
 Con esto podremos llegar a usuarios en todas partes y seremos fácilmente accesibles y útiles en cualuier parte.
   
 ## _Dónde pueden recibir ayuda los usuarios con tu proyecto_
-Dentro de la aplicación se podrá encontrar un apartado con ayuda 
+Dentro de la aplicación se podrá encontrar un apartado con ayuda y preguntas frecuentes con posibles soluciones a sus dudas.
+También se pondrá una forma de contacto para los usuarios, ya sea a través de un correo electrónico o de las redes sociales de la aplicación.
   
 ## _Quién mantiene y contribuye con el proyecto_
 La inversión inicial para llevar a cabo el proyecto sale de los participantes del proyecto.
