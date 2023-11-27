@@ -5,7 +5,7 @@ Repositorio para las prácticas de gestión de proyectos.
 1. [Introducción](#introducción)
 2. [Participantes](#participantes)
    - [Alberto García Alcolado](#alberto-garcía-alcolado)
-   - [Pablo Echavarría Íñiguez](#pablo-echavarría-iñiguez)
+   - [Pablo Echavarría Íñiguez](#pablo-echavarría-íñiguez)
    - [Santiago Infante Ramos](#santiago-infante-ramos)
 3. [Pasos realizados](#pasos-realizados-hasta-el-momento)
 4. [Funcionalidad](#funcionalidad)
