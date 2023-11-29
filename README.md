@@ -32,10 +32,10 @@ Soy Santiago Infante Ramos y puedes encontrarme [aquí](https://github.com/Santi
 Hasta ahora se ha llevado a cabo un primer sprint en el que se han añadido las primeras funcionalidades de la aplicación y se ha creado una versión gráfica muy primitiva para poder ver el desarrollo actual.
   
 ## _Funcionalidad_
-El proyecto se basa en el desarrollo de una aplicación que sea capaz de ayudarte con los registros de tus ejercicios en el gimnasio, así como de mostrarte un calendario en el que poder programar tus entrenamientos y que te permite tener acceso a diversos gráficos y sugerencias en los que puedes ver fácilmente tu progreso.
+El proyecto se basa en el desarrollo de una aplicación que sea capaz de ayudarte con los registros de tus ejercicios en el gimnasio, así como de mostrarte un calendario en el que poder programar tus entrenamientos y que te permite tener acceso a diversos gráficos y sugerencias en los que puedes ver fácilmente tu progreso, con la posibilidad de compartirlo con tus amigos u otros usuarios.
 
 ## _Por qué el proyecto es útil_
-Con nuestra aplicación llevar un registro de los pesos que levantas y las repeticiones que haces en cada ejercicio será muy sencillo y visual.
+Con nuestra aplicación llevar un registro de los pesos que levantas y las repeticiones que haces en cada ejercicio será muy sencillo y visual, así como las variaciones en nuestro peso corporal.
 Nuestros usuarios podrán dejar de apuntar sus entrenos en una libreta y los más nuevos verán como progresan rápidamente, lo que les generará motivación para seguir entrenando día a día.
   
 ## _Cómo pueden comenzar los usuarios con el proyecto_
