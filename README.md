@@ -28,7 +28,7 @@ Desarrollo y gestión de nuestra maravillosa aplicación que te ayudará a mante
 ### _Santiago Infante Ramos_
 Soy Santiago Infante Ramos y puedes encontrarme [aquí](https://github.com/Santiii02)
 
-## Cuestiones
+## _- Cuestiones_
 ### _Pasos realizados hasta el momento_ 
 Hasta ahora se ha llevado a cabo un primer sprint en el que se han añadido las primeras funcionalidades de la aplicación y se ha creado una versión gráfica muy primitiva para poder ver el desarrollo actual.
   
