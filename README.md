@@ -43,11 +43,13 @@ Hasta ahora se ha llevado a cabo un primer sprint en el que se han añadido las 
 Las ideas para nuestro proyecto inicialmente fueron las siguientes:
 
 [Insertar captura MIRO ideas iniciales]
+
 Hicimos una votación para elegir, de entre todas ellas, una. Salió como vencedora la idea de hacer una aplicación para llevar el registro de ejercicios en el gimnasio.
 
 Después de tener elegida una idea para el proyecto, empezamos con la segunda fase,  definir funcionalidades del proyecto:
 
 [Insertar captura MIRO funncionalidades del proyecto]
+
 De todas las funcionalidades que surgieron de nuestra lluvia de ideas, elegimos aquellas que nos parecieron mas importantes.
 
 La última fase fue hacer las historias de usuario, en las que definimos las funcionalidades:
