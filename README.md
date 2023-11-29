@@ -35,7 +35,8 @@ Desarrollo y gestión de nuestra maravillosa aplicación que te ayudará a mante
 Soy Santiago Infante Ramos y puedes encontrarme [aquí](https://github.com/Santiii02)
 
 ## ✏ Informe del trabajo
-Gráfico resumen del primer sprint. [INSERTAR CAPTURA DEL JIRA]
+Gráfico resumen del primer sprint. 
+![Texto Alternativo](https://github.com/pei1001/Gestion-de-Proyectos-Lunes-8-30-Grupo-4/blob/main/CapturaJira.jpg)
 
 ## _Cuestiones❔_
 ### _- Pasos realizados hasta el momento_ 
