@@ -41,10 +41,12 @@ Gráfico resumen del primer sprint. [INSERTAR CAPTURA DEL JIRA]
 ### _- Pasos realizados hasta el momento_ 
 Hasta ahora se ha llevado a cabo un primer sprint en el que se han añadido las primeras funcionalidades de la aplicación y se ha creado una versión gráfica muy primitiva para poder ver el desarrollo actual.
 Las ideas para nuestro proyecto inicialmente fueron las siguientes:
+
 [Insertar captura MIRO ideas iniciales]
 Hicimos una votación para elegir, de entre todas ellas, una. Salió como vencedora la idea de hacer una aplicación para llevar el registro de ejercicios en el gimnasio.
 
 Después de tener elegida una idea para el proyecto, empezamos con la segunda fase,  definir funcionalidades del proyecto:
+
 [Insertar captura MIRO funncionalidades del proyecto]
 De todas las funcionalidades que surgieron de nuestra lluvia de ideas, elegimos aquellas que nos parecieron mas importantes.
 
