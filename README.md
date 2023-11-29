@@ -28,26 +28,26 @@ Desarrollo y gestión de nuestra maravillosa aplicación que te ayudará a mante
 ### _Santiago Infante Ramos_
 Soy Santiago Infante Ramos y puedes encontrarme [aquí](https://github.com/Santiii02)
 
-## _Cuestiones_
+## _Cuestiones❔_
 ### _- Pasos realizados hasta el momento_ 
 Hasta ahora se ha llevado a cabo un primer sprint en el que se han añadido las primeras funcionalidades de la aplicación y se ha creado una versión gráfica muy primitiva para poder ver el desarrollo actual.
   
-### _> Funcionalidad del proyecto_
+### _- Funcionalidad del proyecto_
 El proyecto se basa en el desarrollo de una aplicación que sea capaz de ayudarte con los registros de tus ejercicios en el gimnasio, así como de mostrarte un calendario en el que poder programar tus entrenamientos y que te permite tener acceso a diversos gráficos y sugerencias en los que puedes ver fácilmente tu progreso, con la posibilidad de compartirlo con tus amigos u otros usuarios.
 
-### _Por qué el proyecto es útil_
+### _- Por qué el proyecto es útil_
 Con nuestra aplicación llevar un registro de los pesos que levantas y las repeticiones que haces en cada ejercicio será muy sencillo y visual, así como las variaciones en nuestro peso corporal.
 Nuestros usuarios podrán dejar de apuntar sus entrenos en una libreta y los más nuevos verán como progresan rápidamente, lo que les generará motivación para seguir entrenando día a día.
   
-### _Cómo pueden comenzar los usuarios con el proyecto_
+### _- Cómo pueden comenzar los usuarios con el proyecto_
 Una vez nuestra aplicación se haya desarrollado por completo, esta estará disponible en cualquier dispositivo móvil a través de su correspondiente plataforma de descarga completamente gratis.
 Con esto podremos llegar a usuarios en todas partes del mundo y seremos fácilmente accesibles y útiles para todo aquel que esté interesado en el mundo del gimnasio.
   
-### _Dónde pueden recibir ayuda los usuarios con tu proyecto_
+### _- Dónde pueden recibir ayuda los usuarios con tu proyecto_
 Dentro de la aplicación se podrá encontrar un apartado con ayuda y preguntas frecuentes con posibles soluciones a sus dudas.
 También se pondrá una forma de contacto para los usuarios, ya sea a través de un correo electrónico o de las redes sociales de la aplicación, donde podrán reportar sus problemas y dudas, que serán respondidas y resueltas con la mayor brevedad posible.
   
-### _Quién mantiene y contribuye con el proyecto_
+### _- Quién mantiene y contribuye con el proyecto_
 La inversión inicial para llevar a cabo el proyecto sale de los participantes del proyecto.
 Una vez lanzada la aplicación gratuita, ésta contará con publicidad dentro de ella que haga rentable el proyecto y, además, se pondrá a disposición una versión premium que elimine esta publicidad y que añada alguna funcionalidad extra que pueda resultar atractiva para los usuarios, alentándoles así a pagar por la versión premium.
   
