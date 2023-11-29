@@ -25,13 +25,13 @@ Desarrollo y gestión de nuestra maravillosa aplicación que te ayudará a mante
 
 ## _Participantes_
 
-### _Alberto García Alcolado_
+### _- Alberto García Alcolado_
   Soy Alberto García Alcolado y puedes encontrarme [aquí](https://github.com/albeerto22)
     
-### _Pablo Echavarría Íñiguez_
+### _- Pablo Echavarría Íñiguez_
   Soy Pablo Echavarría Íñiguez y puedes encontrarme [aquí](https://github.com/pei1001)
 
-### _Santiago Infante Ramos_
+### _- Santiago Infante Ramos_
 Soy Santiago Infante Ramos y puedes encontrarme [aquí](https://github.com/Santiii02)
 
 ## _Cuestiones❔_
