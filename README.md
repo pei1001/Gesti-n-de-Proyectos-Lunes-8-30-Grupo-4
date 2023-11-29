@@ -20,13 +20,13 @@ Desarrollo y gestión de nuestra maravillosa aplicación que te ayudará a mante
 ## _Participantes_
 
 ### _Alberto García Alcolado_
-  Soy Alberto García Alcolado y puedes encontrarme [aquí](Insertar URL al perfil de github)
+  Soy Alberto García Alcolado y puedes encontrarme [aquí]()
     
 ### _Pablo Echavarría Íñiguez_
   Soy Pablo Echavarría Íñiguez y puedes encontrarme [aquí](https://github.com/pei1001)
 
 ### _Santiago Infante Ramos_
-Soy Santiago Infante Ramos y puedes encontrarme [aquí](Insertar URL al perfil de github)
+Soy Santiago Infante Ramos y puedes encontrarme [aquí](https://github.com/Santiii02)
 
 ## _Pasos realizados hasta el momento_ 
 Hasta ahora se ha llevado a cabo un primer sprint en el que se han añadido las primeras funcionalidades de la aplicación y se ha creado una versión gráfica muy primitiva para poder ver el desarrollo actual.
