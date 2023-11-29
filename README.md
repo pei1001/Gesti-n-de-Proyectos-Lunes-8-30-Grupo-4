@@ -34,10 +34,23 @@ Desarrollo y gestión de nuestra maravillosa aplicación que te ayudará a mante
 ### _- Santiago Infante Ramos_
 Soy Santiago Infante Ramos y puedes encontrarme [aquí](https://github.com/Santiii02)
 
+## ✏ Informe del trabajo
+Gráfico resumen del primer sprint. [INSERTAR CAPTURA DEL JIRA]
+
 ## _Cuestiones❔_
 ### _- Pasos realizados hasta el momento_ 
 Hasta ahora se ha llevado a cabo un primer sprint en el que se han añadido las primeras funcionalidades de la aplicación y se ha creado una versión gráfica muy primitiva para poder ver el desarrollo actual.
-  
+Las ideas para nuestro proyecto inicialmente fueron las siguientes:
+[Insertar captura MIRO ideas iniciales]
+Hicimos una votación para elegir, de entre todas ellas, una. Salió como vencedora la idea de hacer una aplicación para llevar el registro de ejercicios en el gimnasio.
+
+Después de tener elegida una idea para el proyecto, empezamos con la segunda fase,  definir funcionalidades del proyecto:
+[Insertar captura MIRO funncionalidades del proyecto]
+De todas las funcionalidades que surgieron de nuestra lluvia de ideas, elegimos aquellas que nos parecieron mas importantes.
+
+La última fase fue hacer las historias de usuario, en las que definimos las funcionalidades:
+[Insertar captura MIRO historias de usuario]
+
 ### _- Funcionalidad del proyecto_
 El proyecto se basa en el desarrollo de una aplicación que sea capaz de ayudarte con los registros de tus ejercicios en el gimnasio, así como de mostrarte un calendario en el que poder programar tus entrenamientos y que te permite tener acceso a diversos gráficos y sugerencias en los que puedes ver fácilmente tu progreso, con la posibilidad de compartirlo con tus amigos u otros usuarios.
 
