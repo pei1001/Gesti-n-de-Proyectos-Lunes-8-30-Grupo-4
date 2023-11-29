@@ -31,7 +31,7 @@ Soy Santiago Infante Ramos y puedes encontrarme [aquí](https://github.com/Santi
 ## _Pasos realizados hasta el momento_ 
 Hasta ahora se ha llevado a cabo un primer sprint en el que se han añadido las primeras funcionalidades de la aplicación y se ha creado una versión gráfica muy primitiva para poder ver el desarrollo actual.
   
-## _Funcionalidad_
+## _Funcionalidad del proyecto_
 El proyecto se basa en el desarrollo de una aplicación que sea capaz de ayudarte con los registros de tus ejercicios en el gimnasio, así como de mostrarte un calendario en el que poder programar tus entrenamientos y que te permite tener acceso a diversos gráficos y sugerencias en los que puedes ver fácilmente tu progreso, con la posibilidad de compartirlo con tus amigos u otros usuarios.
 
 ## _Por qué el proyecto es útil_
