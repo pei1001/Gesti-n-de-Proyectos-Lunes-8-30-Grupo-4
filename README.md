@@ -1,5 +1,11 @@
 # Gestion de Proyectos - Lunes 8:30 Grupo-4
 Repositorio para las prácticas de gestión de proyectos.
+<br><br>
+🟢 URL de GitHub:
+<br>
+🟢 URL de Jira: 
+<br><br>
+
 
 ## _Índice_
 1. [Introducción](#introducción)
