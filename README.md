@@ -1,9 +1,9 @@
 # Gestion de Proyectos - Lunes 8:30 Grupo-4
 Repositorio para las prácticas de gestión de proyectos.
 <br><br>
-🟢 URL de GitHub:
+🟢 URL de GitHub: https://github.com/pei1001/Gestion-de-Proyectos-Lunes-8-30-Grupo-4/blob/main/README.md
 <br>
-🟢 URL de Jira: 
+🟢 URL de Jira: https://alu-pei1001.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline?selectedIssue=SCRUM-1
 <br><br>
 
 
