@@ -36,6 +36,7 @@ Soy Santiago Infante Ramos y puedes encontrarme [aquí](https://github.com/Santi
 
 ## ✏ Informe del trabajo
 Gráfico resumen del primer sprint. 
+
 ![Texto Alternativo](https://github.com/pei1001/Gestion-de-Proyectos-Lunes-8-30-Grupo-4/blob/main/CapturaJira.jpg)
 
 ## _Cuestiones❔_
